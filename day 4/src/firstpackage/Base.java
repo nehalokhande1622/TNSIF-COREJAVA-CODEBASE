@@ -1,7 +1,6 @@
-package Firstpackage;
+package firstpackage;
 
 public class Base {
-	
 	
 	int varDefault = 10;
 	public int varPublic = 20;
@@ -32,5 +31,6 @@ public class Base {
 		System.out.println("Protected access base class");
 		System.out.println("Protected varible : "+ varProtected);
 	}
+	
 
 }

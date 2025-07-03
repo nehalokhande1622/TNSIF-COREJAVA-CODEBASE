@@ -1,7 +1,6 @@
-package Firstpackage;
+package firstpackage;
 
 public class Executor {
-	
 	
 public static void main(String[] args) {
 		
@@ -19,6 +18,7 @@ public static void main(String[] args) {
 		b1.varProtected=100;
 		b1.methodProtected();
 	}
+	
 	
 
 }

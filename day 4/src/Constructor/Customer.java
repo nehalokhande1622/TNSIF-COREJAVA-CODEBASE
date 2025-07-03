@@ -2,7 +2,6 @@ package Constructor;
 
 public class Customer {
 	
-
 	private String customerName;
 	private int customerId;
 	private String customerCity;
@@ -75,8 +74,7 @@ public class Customer {
 		return "Customer [customerName=" + customerName + ", customerId=" + customerId + ", customerCity="
 				+ customerCity + "]";
 	}
+
 	
-	
-	
-	
+
 }
