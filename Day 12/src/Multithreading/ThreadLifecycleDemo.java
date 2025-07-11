@@ -1,6 +1,6 @@
 package Multithreading;
 
-public class ThreadLifeCycleDemo extends Thread {
+public class ThreadLifecycleDemo extends Thread {
 	
 	public void run()
 	{
