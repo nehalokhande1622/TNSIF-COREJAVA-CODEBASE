@@ -26,6 +26,9 @@ public class NestedTryCatch {
 		catch (NullPointerException e)
 		{
 			System.err.println(e.getMessage());
+			
+		    
+		    
 		}
 		
 	}
