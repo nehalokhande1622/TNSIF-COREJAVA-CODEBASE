@@ -5,7 +5,7 @@ public class Demo {
 public static void main(String[] args) {
 		
 		
-		Thread myThread=new ThreadLifeCycleDemo();
+		Thread myThread=new ThreadLifecycleDemo();
 		
 		System.out.println("before Runnable State Thread is alive or not ?"+
 		myThread.isAlive());
