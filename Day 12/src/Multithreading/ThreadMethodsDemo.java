@@ -27,7 +27,7 @@ public class ThreadMethodsDemo {
 			Thread.currentThread().interrupt();//Restor interruptede Status
 			System.err.println("Thread interrupt: "+e.getMessage());
 		}
-		System.out.println("-----End Of program-----");
+		System.out.println("-----End Of program-----");  
 		
 		
 		
