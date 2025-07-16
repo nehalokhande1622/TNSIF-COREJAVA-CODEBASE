@@ -1,4 +1,4 @@
-package Array;
+package QueueDemo;
 
 import java.util.Iterator;
 import java.util.LinkedList;
